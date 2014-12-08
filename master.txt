@@ -5,3 +5,5 @@ ma
 asdadadaala ma kota
 asteroida
 >>>>>>> user2
+
+zmiana
