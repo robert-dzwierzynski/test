@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 asdadada  
 ma
+=======
+asdadadaala ma kota
+asteroida
+>>>>>>> user2
