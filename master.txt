@@ -5,3 +5,6 @@ ma
 asdadadaala ma kota
 asteroida
 >>>>>>> user2
+
+konflikt 
+bla bla
